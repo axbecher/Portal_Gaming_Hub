@@ -1,0 +1,572 @@
+{
+    "Steam": {
+        "platform_name_suggestion": "Try playing a game outside instead of playing Steam games.",
+        "platform_selected_in_date": "11:25:52 - 17.02.2023",
+        "available_games": {
+            "Snowrunner": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            },
+            "War Thunder": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            },
+            "DontStarveTogether": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            }
+        }
+    },
+    "UbisoftConnect": {
+        "platform_name_suggestion": "Try playing a game outside instead of playing Steam games.",
+        "platform_selected_in_date": "11:25:52 - 17.02.2023",
+        "available_games": {
+            "Snowrunner": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            },
+            "War Thunder": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            },
+            "DontStarveTogether": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            }
+        }
+    },
+    "RiotGames": {
+        "platform_name_suggestion": "Try playing a game outside instead of playing Steam games.",
+        "platform_selected_in_date": "11:25:52 - 17.02.2023",
+        "available_games": {
+            "Snowrunner": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            },
+            "War Thunder": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            },
+            "DontStarveTogether": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            }
+        }
+    },
+    "Wargaming": {
+        "platform_name_suggestion": "Try playing a game outside instead of playing Steam games.",
+        "platform_selected_in_date": "11:25:52 - 17.02.2023",
+        "available_games": {
+            "Snowrunner": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            },
+            "War Thunder": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            },
+            "DontStarveTogether": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            }
+        }
+    },
+    "Battlenet": {
+        "platform_name_suggestion": "Try playing a game outside instead of playing Steam games.",
+        "platform_selected_in_date": "11:25:52 - 17.02.2023",
+        "available_games": {
+            "Snowrunner": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            },
+            "War Thunder": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            },
+            "DontStarveTogether": {
+                "suggestion": "Why not go for a walk in the park instead of playing Snowrunner?",
+                "game_selected_in_date": "11:28:30 - 17.02.2023",
+                "game_location": "D:\\Personal\\Coding\\Python\\PortalGamingHub\\goodGame.exe.lnk",
+              "game_activities_suggestion":{
+                "activity1":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity2":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                },
+                "activity3":{
+                  "name":"walking",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg",
+                  "url_link":"https://www.nhs.uk/live-well/exercise/running-and-aerobic-exercises/walking-for-health/"
+                }
+              },
+              "game_reasons":{
+                "reason1":{
+                  "title":"graphics",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason2":{
+                  "name":"gameplaay",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                },
+                "reason3":{
+                  "name":"story",
+                  "img_url":"https://png.pngtree.com/png-vector/20190328/ourmid/pngtree-vector-walking-icon-png-image_872172.jpg"
+                }
+              }
+            }
+        }
+    }
+}
